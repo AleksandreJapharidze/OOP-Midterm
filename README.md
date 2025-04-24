@@ -3,7 +3,7 @@ My name is Aleksandre Japharidze. This is my OOP exam repository.
 
 # Task 4(In case I had to do this here. Please, forgive my misunderstanding, if there is any.)
 
-## Personal xperience of the first midterm exam in OOP
+## Personal experience of the first midterm exam in OOP
 
 1. #### Challenges faced:
 The main challenge I have faced in during this midterm exam is understanding some tasks clearly, out of time pressure and my general awkwardness. For example, I couldn't understand what exact packages to create and not create or whatever in task 2. And I also didn't know what was this "md" file, but I eventually found out.
